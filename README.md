@@ -1,5 +1,5 @@
 
-Created a MongoDB database connection to a database that resides in the Cloud and also local to the system.
+Create a MongoDB database connection to a database that resides in the Cloud and also local to the system.
 
 In the MongoDB Database create two collections a): Hospital and b): Doctors, using Python and MongoDB.
 
